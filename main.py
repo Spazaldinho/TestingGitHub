@@ -1,2 +1,2 @@
-msg = "hello world"
+msg = "This is a file to test python"
 print(msg)
