@@ -9,3 +9,4 @@ elif P > 100:
     print(-1)
 else:
     print(1)
+    
